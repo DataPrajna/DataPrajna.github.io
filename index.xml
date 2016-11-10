@@ -16,12 +16,14 @@
       <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dataprajna.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;##Developing Linear Regression Model&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;developing-linear-regression-model&#34;&gt;Developing Linear Regression Model&lt;/h2&gt;
 
 &lt;p&gt;Linear regression model offers simple and fundamental modeling approach for any kind of data. This projects develops a python class for regression model. Modeling enthusiast can input data into
 this class and can input data to this class and get a fitted  model for the data you input. You can also specify the order of the fitting equation.&lt;/p&gt;
 
-&lt;p&gt;##Before You Start&lt;/p&gt;
+&lt;h2 id=&#34;before-you-start&#34;&gt;Before You Start&lt;/h2&gt;
 
 &lt;p&gt;I know you are super excited to test your data to get a model, but before that how about you get stuffs ready to have a smooth model creation process. Things You need are:&lt;/p&gt;
 
@@ -31,7 +33,7 @@ this class and can input data to this class and get a fitted  model for the data
 &lt;li&gt;Object oriented programming&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;##Python Code for Linear regression Model&lt;/p&gt;
+&lt;h2 id=&#34;python-code-for-linear-regression-model&#34;&gt;Python Code for Linear regression Model&lt;/h2&gt;
 </description>
     </item>
     

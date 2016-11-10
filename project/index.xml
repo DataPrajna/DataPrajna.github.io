@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project-rsses on Adavanced Data Analytics</title>
-    <link>https://akshayamishra.github.io/project/index.xml</link>
+    <link>https://DataPrajna.github.io/project/index.xml</link>
     <description>Recent content in Project-rsses on Adavanced Data Analytics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Akshaya Mishra</copyright>
+    <copyright>&amp;copy; 2016 PrajnaParamita</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deep Learning</title>
-      <link>https://akshayamishra.github.io/project/deep-learning/</link>
+      <link>https://dataprajna.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://akshayamishra.github.io/project/deep-learning/</guid>
+      <guid>https://dataprajna.github.io/project/deep-learning/</guid>
       <description>&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://akshayamishra.github.io/project/example-external-project/</link>
+      <link>https://dataprajna.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://akshayamishra.github.io/project/example-external-project/</guid>
+      <guid>https://dataprajna.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     

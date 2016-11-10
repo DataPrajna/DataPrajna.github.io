@@ -7,16 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 PrajnaParamita</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deep Learning</title>
       <link>https://dataprajna.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://dataprajna.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Coming soon&lt;/p&gt;
+      <description>&lt;p&gt;##Developing Linear Regression Model&lt;/p&gt;
+
+&lt;p&gt;Linear regression model offers simple and fundamental modeling approach for any kind of data. This projects develops a python class for regression model. Modeling enthusiast can input data into
+this class and can input data to this class and get a fitted  model for the data you input. You can also specify the order of the fitting equation.&lt;/p&gt;
+
+&lt;p&gt;##Before You Start&lt;/p&gt;
+
+&lt;p&gt;I know you are super excited to test your data to get a model, but before that how about you get stuffs ready to have a smooth model creation process. Things You need are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basic knowledge on Statistics&lt;/li&gt;
+&lt;li&gt;Coding  experience in scripting language like python, r&lt;/li&gt;
+&lt;li&gt;Object oriented programming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Python Code for Linear regression Model&lt;/p&gt;
 </description>
     </item>
     

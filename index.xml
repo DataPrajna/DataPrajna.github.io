@@ -29,7 +29,7 @@ this class and can input data to this class and get a fitted  model for the data
 
 &lt;ul&gt;
 &lt;li&gt;Basic knowledge on Statistics&lt;/li&gt;
-&lt;li&gt;Coding  experience in scripting language like python, r&lt;/li&gt;
+&lt;li&gt;Coding  experience in scripting language like Python, R (here I used Python)&lt;/li&gt;
 &lt;li&gt;Object oriented programming&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -52,6 +52,14 @@ this class and can input data to this class and get a fitted  model for the data
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://jorditorres.org/first-contact-with-tensorflow/&#34;&gt;TensorFlow&lt;/a&gt;: A versatile deep learning package in python&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&#34;regression-model&#34;&gt;Regression Model:&lt;/h2&gt;
+
+&lt;p&gt;Code goes here&lt;/p&gt;
+
+&lt;h2 id=&#34;results&#34;&gt;Results:&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DataPrajna.github.io/project/figure_1.png&#34; alt=&#34;my-image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

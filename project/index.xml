@@ -61,15 +61,15 @@ this class and can input data to this class and get a fitted  model for the data
 
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Linear Regression:
-&lt;img src=&#34;https://DataPrajna.github.io/project/figure_1.png&#34; alt=&#34;my_image&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://DataPrajna.github.io/project/Linear_fit.png&#34; alt=&#34;my_image&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Linear Regression with 4 hidden layers&lt;br /&gt;
-&lt;img src=&#34;https://DataPrajna.github.io/project/figure_1_deep.png&#34; alt=&#34;my_image_1&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;img src=&#34;https://DataPrajna.github.io/project/Linear_fit_hidden.png&#34; alt=&#34;my_image_1&#34; /&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;A high order polynomial fit with 4 hidden layers&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DataPrajna.github.io/project/figure_1_deep_poly.png&#34; alt=&#34;my_image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DataPrajna.github.io/project/Poly_fit_hidden.png&#34; alt=&#34;my_image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -74,15 +74,6 @@ this class and can input data to this class and get a fitted  model for the data
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://dataprajna.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://dataprajna.github.io/project/example-external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Getting started with the Academic theme for Hugo</title>
       <link>https://dataprajna.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
